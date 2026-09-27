@@ -1,0 +1,304 @@
+Equipment_ID,Equipment_Name,Category,Department,Purchase_Date,Purchase_Cost,Last_Maintenance_Date,Maintenance_Frequency,Maintenance_Cost,Downtime_Hours,Usage_Hours,Status,Issue_Count
+1,Infusion Pump,Drug Delivery,Operation Theatre,2024-03-26 14:11:49,116792,2026-08-28,Yearly,81171.0,23.9,277.2,In Use,1
+2,Defibrillator,Emergency Equipment,General Ward,2017-12-30 04:11:31,288152,2026-03-28,Monthly,118391.0,3.0,938.7,Available,2
+3,Blood Pressure Monitor,Monitoring,Operation Theatre,2018-03-01 00:20:21,4324,2026-07-31,Quarterly,84810.0,8.7,2011.3,Available,2
+4,Electrosurgical Unit,Surgical Equipment,ICU,2020-03-30 07:40:05,767923,2026-07-16,Quarterly,133191.0,24.2,1796.8,In Use,2
+5,Syringe Pump,Drug Delivery,Radiology,2021-11-14 08:51:22,55909,2026-05-20,Half-Yearly,36207.0,6.8,553.7,In Use,0
+6,Oxygen Concentrator,Respiratory Equipment,General Ward,2023-08-01 05:58:39,49870,2026-04-11,Yearly,83037.0,16.7,1079.9,Out of Service,0
+7,Blood Pressure Monitor,Monitoring,Operation Theatre,2020-07-02 10:13:28,4810,2026-08-06,Monthly,92655.0,12.1,1815.1,In Use,4
+8,X-Ray Machine,Diagnostic Imaging,Pediatrics,2018-02-12 13:31:38,4848924,2026-01-12,Yearly,1781.0,12.4,241.5,In Use,1
+9,Infusion Pump,Drug Delivery,Emergency,2025-05-17 02:26:13,51790,2026-01-24,Monthly,133630.0,20.4,913.5,Available,4
+10,Anesthesia Machine,Critical Care,Emergency,2022-07-20 22:38:20,1311721,2026-06-19,Yearly,77760.0,14.5,1888.9,Under Maintenance,2
+11,ECG Machine,Diagnostic,General Ward,2024-02-26 23:43:54,85485,2026-05-22,Monthly,141772.0,13.5,948.2,Available,1
+12,Infusion Pump,Drug Delivery,Radiology,2019-04-05 14:02:58,69482,2026-02-19,Monthly,65678.0,11.0,263.0,Out of Service,1
+13,Syringe Pump,Drug Delivery,Pediatrics,2018-08-25 03:34:26,24748,2026-01-06,Half-Yearly,35497.0,4.0,1239.3,Under Maintenance,2
+14,Syringe Pump,Drug Delivery,General Ward,2025-02-05 19:31:10,29435,2026-07-30,Yearly,120773.0,15.9,1909.7,In Use,1
+15,Oxygen Concentrator,Respiratory Equipment,ICU,2019-09-30 19:05:03,33709,2026-02-03,Yearly,133811.0,20.3,1339.6,In Use,0
+16,X-Ray Machine,Diagnostic Imaging,Operation Theatre,2023-09-21 00:26:27,4245401,2026-05-27,Half-Yearly,128445.0,31.1,575.2,Available,2
+17,Defibrillator,Emergency Equipment,Neurology,2025-12-02 04:17:44,150355,2026-07-31,Yearly,46772.0,7.4,906.9,Available,1
+18,Oxygen Concentrator,Respiratory Equipment,ICU,2025-12-22 18:46:56,85771,2026-01-09,Monthly,90893.0,23.1,1045.3,Available,0
+19,Oxygen Concentrator,Respiratory Equipment,Emergency,2020-01-28 01:28:07,87799,2026-03-20,Yearly,62712.0,33.7,1316.5,Available,1
+20,ECG Machine,Diagnostic,Operation Theatre,2018-08-07 08:49:03,214188,2026-05-29,Half-Yearly,147970.0,30.7,1694.6,Available,2
+21,Surgical Table,Surgical Equipment,General Ward,2019-06-02 10:10:46,456542,2026-08-20,Yearly,121530.0,8.2,307.6,Available,2
+22,X-Ray Machine,Diagnostic Imaging,ICU,2025-05-27 14:44:33,4819144,2026-03-05,Yearly,58003.0,8.8,1968.3,Available,3
+23,Patient Monitor,Monitoring,,2018-09-15 10:03:44,119298,2026-03-03,Yearly,139210.0,23.4,125.9,Available,3
+24,Oxygen Concentrator,Respiratory Equipment,Neurology,2023-11-25 19:39:54,91629,2026-07-13,Half-Yearly,8070.0,20.6,877.1,Under Maintenance,0
+25,CT Scanner,Diagnostic Imaging,Radiology,2023-10-07 06:47:50,15668216,2026-07-23,Half-Yearly,70285.0,17.1,157.6,Available,0
+26,Pulse Oximeter,Monitoring,Pediatrics,2022-08-23 09:21:34,2214,2026-06-20,Yearly,10610.0,850.0,925.2,Under Maintenance,4
+27,Surgical Table,Surgical Equipment,Pediatrics,2017-04-27 06:57:33,1055195,2026-08-31,Quarterly,80641.0,17.5,1204.2,Available,0
+28,Patient Monitor,Monitoring,Radiology,2018-01-30 18:43:46,103960,2026-06-19,Yearly,13615.0,12.1,1174.5,Available,3
+29,CT Scanner,Diagnostic Imaging,Cardiology,2021-10-06 01:35:55,14062903,2026-05-13,Yearly,40562.0,31.0,447.8,Under Maintenance,2
+30,X-Ray Machine,Diagnostic Imaging,Emergency,2023-10-20 06:32:47,1713920,2026-02-20,Quarterly,24411.0,9.7,1456.1,In Use,2
+31,Ventilator,Critical Care,Operation Theatre,2024-07-07 01:08:08,492804,2026-06-11,Yearly,105561.0,17.9,194.0,Available,4
+32,CT Scanner,Diagnostic Imaging,Radiology,2019-04-07 23:23:31,17814149,2026-07-11,Half-Yearly,34056.0,4.7,1700.0,Available,2
+33,Anesthesia Machine,Critical Care,Cardiology,2021-01-13 22:31:23,1153983,2026-05-22,Yearly,129835.0,4.6,2088.0,In Use,1
+34,Surgical Table,Surgical Equipment,General Ward,2018-06-23 07:42:40,715916,2026-08-07,Yearly,3469.0,18.6,813.5,Available,3
+35,Blood Pressure Monitor,Monitoring,Neurology,2020-01-10 08:25:47,4852,2026-02-21,Monthly,45253.0,3.8,1186.2,Available,2
+36,CT Scanner,Diagnostic Imaging,Pediatrics,2024-12-07 18:47:32,18195758,2026-08-13,Half-Yearly,137042.0,7.0,895.7,In Use,3
+37,Ultrasound Machine,Diagnostic Imaging,Neurology,2020-06-17 12:55:00,3025300,2026-01-01,Yearly,123363.0,7.5,114.1,Available,1
+38,Ventilator,Critical Care,Cardiology,2018-01-15 14:30:55,736261,2026-06-21,Quarterly,11725.0,9.2,910.3,Available,1
+39,Syringe Pump,Drug Delivery,Neurology,2018-02-07 17:25:14,81642,2026-04-24,Half-Yearly,124508.0,21.4,1762.6,In Use,4
+40,Syringe Pump,Drug Delivery,Emergency,2025-09-02 21:32:38,41732,2026-06-28,Quarterly,107323.0,4.4,1351.6,Available,3
+41,Electrosurgical Unit,Surgical Equipment,Emergency,2020-12-06 04:51:52,509747,2026-02-05,Half-Yearly,15169.0,10.3,312.6,Available,2
+42,Anesthesia Machine,Critical Care,ICU,2020-01-05 02:33:38,1115650,2026-01-28,Half-Yearly,125898.0,25.5,1879.0,Under Maintenance,3
+43,CT Scanner,Diagnostic Imaging,Radiology,2018-08-24 19:40:07,8423570,2026-03-25,Half-Yearly,112177.0,16.1,1215.3,In Use,2
+44,CT Scanner,Diagnostic Imaging,ICU,2021-01-06 20:33:57,10373139,2026-03-05,Quarterly,49820.0,7.3,1867.6,In Use,1
+45,Electrosurgical Unit,Surgical Equipment,Neurology,2021-01-25 02:54:47,888353,2026-08-22,Half-Yearly,148149.0,11.3,1318.5,Available,2
+46,Pulse Oximeter,Monitoring,Pediatrics,2018-09-27 19:18:56,7190,2026-04-09,Monthly,126854.0,9.8,1275.3,Available,2
+47,Pulse Oximeter,Monitoring,Cardiology,2019-04-27 15:32:39,2256,2026-03-04,Quarterly,89509.0,19.5,321.0,Available,2
+48,Electrosurgical Unit,Surgical Equipment,Operation Theatre,2025-04-03 04:22:08,302528,2026-04-30,Monthly,30125.0,18.6,451.5,Available,0
+49,Pulse Oximeter,Monitoring,Neurology,2021-12-26 19:45:11,6645,2026-03-24,Quarterly,25589.0,3.3,2141.3,Available,0
+50,ECG Machine,Diagnostic,Operation Theatre,2021-10-23 19:01:55,122638,2026-02-05,Half-Yearly,37987.0,10.6,579.8,Under Maintenance,0
+51,CT Scanner,Diagnostic Imaging,Emergency,2020-03-16 21:14:13,23650304,2026-08-24,Half-Yearly,111948.0,12.8,2152.6,In Use,2
+52,Infusion Pump,Drug Delivery,Operation Theatre,2022-12-27 16:01:43,93866,2026-09-04,Yearly,51638.0,15.7,1217.0,In Use,4
+53,Defibrillator,Emergency Equipment,Operation Theatre,2018-04-03 04:30:26,270159,2026-04-08,Quarterly,55561.0,22.2,385.2,In Use,2
+54,Ultrasound Machine,Diagnostic Imaging,Pediatrics,2025-11-12 19:13:28,3052728,2026-03-31,Yearly,102876.0,28.7,308.5,Available,1
+55,ECG Machine,Diagnostic,Operation Theatre,2022-03-29 22:23:30,208186,2026-03-22,Yearly,80634.0,13.2,538.6,Available,6
+56,X-Ray Machine,Diagnostic Imaging,Neurology,2017-09-09 14:42:36,4462443,2026-02-26,Quarterly,48555.0,8.5,2043.8,In Use,1
+57,ECG Machine,Diagnostic,Cardiology,2021-08-14 05:18:09,169657,,Yearly,21008.0,5.2,969.7,In Use,1
+58,Infusion Pump,Drug Delivery,Operation Theatre,2021-11-16 00:40:31,35975,2026-04-03,Yearly,111669.0,2.4,930.4,Available,1
+59,X-Ray Machine,Diagnostic Imaging,General Ward,2024-07-15 03:39:25,2559599,,Quarterly,9625.0,11.9,757.7,In Use,2
+60,Ultrasound Machine,Diagnostic Imaging,Operation Theatre,2023-08-20 13:40:33,3442887,2026-08-21,Quarterly,37559.0,7.3,408.8,Under Maintenance,1
+61,Infusion Pump,Drug Delivery,Operation Theatre,2020-09-02 06:01:51,115469,2026-01-24,Yearly,104909.0,14.8,1124.5,In Use,1
+62,Patient Monitor,Monitoring,ICU,2023-12-07 12:11:15,146203,2026-07-24,Yearly,149659.0,15.6,373.1,Out of Service,1
+63,Defibrillator,Emergency Equipment,Cardiology,2019-06-18 12:44:51,280775,2026-03-02,Monthly,7204.0,6.4,1854.5,Available,4
+64,Ultrasound Machine,Diagnostic Imaging,Neurology,2024-04-29 12:59:27,3467867,2026-07-08,Yearly,112779.0,6.3,877.8,Under Maintenance,1
+65,CT Scanner,Diagnostic Imaging,Emergency,2020-05-09 12:11:43,19858009,2026-03-07,Yearly,120016.0,24.6,887.1,In Use,0
+66,Pulse Oximeter,Monitoring,ICU,2021-06-10 04:41:52,4719,2026-01-15,Yearly,115544.0,12.6,1095.4,In Use,0
+67,Patient Monitor,Monitoring,Neurology,2024-11-26 05:13:35,185787,2026-08-29,Yearly,30665.0,5.6,1032.7,Available,1
+68,Anesthesia Machine,Critical Care,Radiology,2022-10-16 16:28:31,1187281,2026-05-28,Yearly,68703.0,12.4,2189.2,Under Maintenance,3
+69,Ultrasound Machine,Diagnostic Imaging,Cardiology,2018-03-15 03:36:26,2144027,2026-07-05,Quarterly,5614.0,51.2,1245.3,Under Maintenance,5
+70,Anesthesia Machine,Critical Care,General Ward,2018-07-18 08:20:37,920571,2026-09-05,Quarterly,37821.0,17.5,285.2,Out of Service,2
+71,X-Ray Machine,Diagnostic Imaging,Cardiology,2019-01-26 17:08:06,4772744,2026-05-11,Half-Yearly,74797.0,15.4,1374.4,Under Maintenance,1
+72,Patient Monitor,Monitoring,Radiology,2017-01-23 22:58:29,346979,2026-07-02,Yearly,98152.0,6.2,418.3,In Use,1
+73,Defibrillator,Emergency Equipment,Radiology,2019-06-19 15:25:32,140159,2026-08-02,Quarterly,100804.0,1.4,165.0,Available,2
+74,CT Scanner,Diagnostic Imaging,Radiology,2019-04-28 09:19:49,8497562,,Half-Yearly,19272.0,24.8,2138.6,In Use,1
+75,Electrosurgical Unit,Surgical Equipment,Pediatrics,2021-03-26 22:17:43,952965,,Half-Yearly,105254.0,15.2,1724.4,Out of Service,1
+76,CT Scanner,Diagnostic Imaging,Emergency,2017-11-02 03:40:10,12578238,2026-06-27,Half-Yearly,5212.0,18.6,2158.2,Available,3
+77,Infusion Pump,Drug Delivery,Operation Theatre,2025-01-31 12:14:18,63088,2026-05-10,Yearly,133939.0,21.6,1103.5,In Use,4
+78,CT Scanner,Diagnostic Imaging,Cardiology,2023-02-06 13:57:53,13562067,2026-04-21,Yearly,116642.0,9.9,1217.7,In Use,1
+79,Blood Pressure Monitor,Monitoring,Neurology,2017-05-12 02:10:37,13700,2026-08-02,Half-Yearly,93236.0,4.4,453.5,In Use,1
+80,Oxygen Concentrator,Respiratory Equipment,Pediatrics,2019-09-27 08:14:24,65547,2026-03-21,Half-Yearly,53424.0,19.8,618.5,Available,2
+81,Electrosurgical Unit,Surgical Equipment,Neurology,2022-12-24 11:26:38,332844,2026-07-31,Quarterly,5226.0,4.2,1861.0,Under Maintenance,2
+82,ECG Machine,Diagnostic,Operation Theatre,2021-03-10 16:51:30,97532,2026-07-24,Half-Yearly,90652.0,15.4,848.0,Available,1
+83,Pulse Oximeter,Monitoring,Operation Theatre,2020-04-23 18:04:18,2581,2026-07-08,Quarterly,29223.0,6.6,1836.3,Available,2
+84,Ventilator,Critical Care,General Ward,2019-07-12 07:48:15,372402,2026-04-08,Quarterly,128469.0,23.8,1588.9,Under Maintenance,2
+85,Defibrillator,Emergency Equipment,Radiology,2019-10-15 16:24:16,238012,2026-09-04,Half-Yearly,101994.0,16.4,472.1,Available,0
+86,Patient Monitor,Monitoring,,2022-12-08 13:19:59,136178,2026-04-13,Monthly,141680.0,7.6,1165.6,In Use,2
+87,Oxygen Concentrator,Respiratory Equipment,General Ward,2024-02-04 10:27:28,79407,2026-07-16,Quarterly,37143.0,4.6,1522.5,Under Maintenance,2
+88,Defibrillator,Emergency Equipment,ICU,2025-11-28 23:08:11,170990,2026-01-14,Half-Yearly,105396.0,12.7,593.6,Available,0
+89,Patient Monitor,Monitoring,Pediatrics,2021-01-09 10:51:25,209473,2026-05-24,Quarterly,141499.0,22.4,1844.4,Available,2
+90,Pulse Oximeter,Monitoring,Pediatrics,2022-06-05 16:04:04,1009,2026-02-02,Quarterly,95180.0,23.0,1244.1,Available,0
+91,Surgical Table,Surgical Equipment,Emergency,2018-02-27 05:45:41,778007,,Yearly,98046.0,25.2,447.0,Under Maintenance,0
+92,Surgical Table,Surgical Equipment,Operation Theatre,2019-02-08 08:27:20,1144573,2026-05-11,Half-Yearly,81473.0,15.1,1324.3,In Use,2
+93,Anesthesia Machine,Critical Care,Neurology,2024-04-04 11:31:35,1774732,2026-09-03,Quarterly,64949.0,30.3,2199.4,Available,0
+94,Defibrillator,Emergency Equipment,Pediatrics,2024-03-28 19:09:36,288964,2026-02-05,Yearly,111334.0,15.6,416.1,In Use,2
+95,Surgical Table,Surgical Equipment,Emergency,2024-03-07 23:03:09,825303,2026-06-01,Half-Yearly,27037.0,6.5,1815.2,In Use,2
+96,Blood Pressure Monitor,Monitoring,Pediatrics,2023-01-19 13:35:58,13016,2026-01-10,Yearly,79076.0,8.0,535.3,Out of Service,2
+97,Electrosurgical Unit,Surgical Equipment,Pediatrics,2024-07-31 17:08:12,311813,2026-01-17,Half-Yearly,,26.7,1743.0,Under Maintenance,1
+98,Patient Monitor,Monitoring,Radiology,2018-05-17 23:03:48,107712,2026-06-18,Yearly,24112.0,6.5,1642.6,Available,2
+99,Anesthesia Machine,Critical Care,ICU,2025-12-21 10:55:27,612816,2026-02-04,Yearly,7971.0,5.7,731.0,In Use,0
+100,CT Scanner,Diagnostic Imaging,Radiology,2019-07-08 09:21:36,15468810,2026-01-24,Yearly,32848.0,33.1,784.2,Available,2
+101,Patient Monitor,Monitoring,ICU,2023-01-21 17:55:11,142292,2026-05-11,Yearly,2677.0,15.4,1764.3,In Use,1
+102,Anesthesia Machine,Critical Care,Pediatrics,2024-09-24 14:32:56,785977,2026-06-11,Quarterly,,15.5,1069.0,Available,1
+103,Pulse Oximeter,Monitoring,General Ward,2019-09-06 20:49:45,5158,2026-04-19,Quarterly,34279.0,22.7,1634.7,In Use,1
+104,Defibrillator,Emergency Equipment,Neurology,2025-04-29 00:29:18,313752,2026-08-28,Yearly,23136.0,22.3,410.8,In Use,1
+105,Pulse Oximeter,Monitoring,Operation Theatre,2024-06-27 21:38:10,4925,2026-07-03,Half-Yearly,83389.0,12.1,1890.4,In Use,1
+106,Electrosurgical Unit,Surgical Equipment,Pediatrics,2023-04-13 19:21:18,519114,2026-08-10,Yearly,55051.0,28.6,1592.9,In Use,2
+107,Electrosurgical Unit,Surgical Equipment,ICU,2019-01-20 19:55:45,584618,2026-04-08,Quarterly,144128.0,34.5,2004.6,In Use,3
+108,Oxygen Concentrator,Respiratory Equipment,ICU,2017-07-26 23:25:50,76540,2026-03-22,Half-Yearly,144135.0,4.4,378.0,Available,2
+109,Pulse Oximeter,Monitoring,ICU,2019-07-01 04:07:54,5000,2026-07-30,Quarterly,48319.0,17.2,1345.3,Available,0
+110,Infusion Pump,Drug Delivery,Pediatrics,2023-03-02 09:46:17,43017,2026-04-22,Half-Yearly,75270.0,6.4,1358.2,In Use,0
+111,CT Scanner,Diagnostic Imaging,Emergency,2017-04-28 23:10:57,11251298,2026-02-04,Half-Yearly,80214.0,9.5,842.3,Out of Service,1
+112,Ultrasound Machine,Diagnostic Imaging,General Ward,2018-08-01 16:47:04,1070846,2026-08-01,Half-Yearly,26096.0,4.7,1062.8,Under Maintenance,0
+113,Pulse Oximeter,Monitoring,Emergency,2024-03-10 16:41:10,1384,2026-04-28,Half-Yearly,65606.0,38.8,179.8,In Use,2
+114,Oxygen Concentrator,Respiratory Equipment,Operation Theatre,2022-12-07 23:06:04,30404,,Half-Yearly,60682.0,13.9,1666.3,Available,0
+115,X-Ray Machine,Diagnostic Imaging,Pediatrics,2023-05-02 00:45:29,4555599,2026-08-02,Quarterly,88663.0,10.9,1253.6,Available,0
+116,Blood Pressure Monitor,Monitoring,ICU,2025-01-29 20:37:10,5000,2026-02-15,Yearly,40810.0,14.2,221.3,Out of Service,0
+117,Patient Monitor,Monitoring,General Ward,2023-02-05 01:38:33,271172,2026-02-15,Monthly,57588.0,10.4,1529.6,In Use,1
+118,Electrosurgical Unit,Surgical Equipment,General Ward,2025-03-08 06:04:18,915220,2026-07-30,Half-Yearly,130303.0,13.7,1080.2,In Use,0
+119,X-Ray Machine,Diagnostic Imaging,Cardiology,2017-11-05 13:10:09,3832517,2026-07-08,Half-Yearly,141478.0,17.9,172.4,Available,3
+120,Oxygen Concentrator,Respiratory Equipment,Operation Theatre,2022-03-16 22:45:32,80612,2026-03-06,Yearly,38414.0,6.7,2136.2,In Use,1
+121,Anesthesia Machine,Critical Care,Neurology,2018-07-18 20:00:57,1310006,2026-07-30,Half-Yearly,950000.0,19.1,2093.1,Available,1
+122,Ultrasound Machine,Diagnostic Imaging,Neurology,2017-09-15 17:46:46,2658532,2026-06-09,Yearly,46879.0,8.9,1177.1,Available,1
+123,CT Scanner,Diagnostic Imaging,General Ward,2017-03-17 09:00:40,20243026,2026-08-06,Yearly,47913.0,16.8,296.7,Under Maintenance,1
+124,CT Scanner,Diagnostic Imaging,Pediatrics,2017-05-24 21:09:55,16247752,2026-04-14,Quarterly,138584.0,8.3,1684.7,Available,3
+125,CT Scanner,Diagnostic Imaging,ICU,2023-07-29 18:23:40,14195200,2026-06-08,Quarterly,8651.0,21.9,1133.1,Under Maintenance,2
+126,Blood Pressure Monitor,Monitoring,ICU,2020-05-25 23:07:44,7780,2026-07-11,Quarterly,59216.0,23.5,735.1,Available,2
+127,Ultrasound Machine,Diagnostic Imaging,General Ward,2019-12-19 21:06:53,1643523,2026-08-26,Quarterly,95247.0,12.5,1132.0,In Use,1
+128,Blood Pressure Monitor,Monitoring,Emergency,2023-03-27 08:47:11,8565,2026-06-11,Half-Yearly,146039.0,49.0,1197.1,In Use,0
+129,Electrosurgical Unit,Surgical Equipment,Operation Theatre,2023-11-29 17:12:45,451152,2026-05-31,Yearly,123499.0,16.2,1281.7,Available,3
+130,Blood Pressure Monitor,Monitoring,ICU,2019-01-16 22:03:55,7976,2026-03-26,Quarterly,116293.0,3.8,1026.6,Available,4
+131,Ventilator,Critical Care,General Ward,2018-08-01 11:48:02,342193,2026-04-28,Quarterly,109677.0,21.2,1372.1,Available,2
+132,Ultrasound Machine,Diagnostic Imaging,ICU,2020-10-04 20:05:34,1305950,2026-07-12,Quarterly,13789.0,36.5,2029.3,In Use,4
+133,Infusion Pump,Drug Delivery,Neurology,2017-01-29 23:29:31,32239,2026-08-08,Yearly,87865.0,8.2,860.8,Available,1
+134,Ultrasound Machine,Diagnostic Imaging,General Ward,2025-08-22 07:34:55,1308153,2026-04-23,Half-Yearly,115514.0,4.2,1624.0,In Use,0
+135,Oxygen Concentrator,Respiratory Equipment,Operation Theatre,2023-05-27 16:22:22,88017,2026-03-11,Quarterly,74088.0,20.9,1978.4,Available,0
+136,Ventilator,Critical Care,General Ward,2021-11-22 16:48:21,836165,2026-04-02,Yearly,65146.0,12.1,1057.6,In Use,1
+137,CT Scanner,Diagnostic Imaging,Cardiology,2021-02-02 09:02:49,21943554,,Yearly,5154.0,14.0,1031.3,Available,2
+138,Oxygen Concentrator,Respiratory Equipment,General Ward,2022-10-21 21:01:50,62049,2026-06-23,Monthly,20243.0,14.5,1364.4,Available,2
+139,Oxygen Concentrator,Respiratory Equipment,General Ward,2021-12-22 11:24:44,67131,2026-07-31,Half-Yearly,49868.0,9.1,1342.0,Available,1
+140,Electrosurgical Unit,Surgical Equipment,Pediatrics,2021-02-25 04:13:09,890053,2026-08-26,Yearly,139013.0,10.0,1793.8,In Use,2
+141,Syringe Pump,Drug Delivery,Neurology,2017-01-13 11:53:20,44285,2026-05-18,Quarterly,121235.0,10.2,1100.6,Under Maintenance,0
+142,ECG Machine,Diagnostic,Operation Theatre,2022-01-31 14:07:47,107626,2026-05-27,Monthly,121391.0,12.9,2191.9,Available,3
+143,Ventilator,Critical Care,Pediatrics,2022-04-15 11:38:17,731680,2026-03-04,Monthly,109471.0,23.5,224.9,Under Maintenance,0
+144,Oxygen Concentrator,Respiratory Equipment,General Ward,2024-04-01 20:14:06,83871,,Quarterly,13649.0,7.5,106.7,Available,4
+145,ECG Machine,Diagnostic,Operation Theatre,2022-01-18 09:03:38,89198,2026-01-11,Yearly,101602.0,27.6,1444.4,In Use,2
+146,ECG Machine,Diagnostic,Cardiology,2017-04-13 10:17:31,220830,2026-04-03,Yearly,60689.0,10.9,726.7,In Use,2
+147,Ventilator,Critical Care,Operation Theatre,2020-01-11 17:14:08,789542,,Quarterly,72531.0,25.9,604.8,Available,3
+148,Syringe Pump,Drug Delivery,ICU,2019-09-21 21:14:28,64238,2026-01-25,Quarterly,44168.0,43.8,755.0,Available,1
+149,X-Ray Machine,Diagnostic Imaging,Pediatrics,2019-12-07 21:42:19,3598404,2026-07-10,Quarterly,146245.0,11.5,637.7,In Use,1
+150,Anesthesia Machine,Critical Care,Operation Theatre,2024-01-14 02:41:48,1326196,2026-08-02,Quarterly,89704.0,14.2,164.7,In Use,3
+151,Infusion Pump,Drug Delivery,Neurology,2021-04-08 15:32:03,102709,2026-02-24,Yearly,142007.0,5.3,2140.2,In Use,2
+152,Anesthesia Machine,Critical Care,Cardiology,2021-12-13 03:54:05,815826,2026-01-23,Quarterly,38884.0,14.4,563.6,Available,1
+153,Ultrasound Machine,Diagnostic Imaging,Radiology,2022-07-13 23:35:10,1127359,2026-02-01,Quarterly,83429.0,18.3,1641.5,In Use,1
+154,CT Scanner,Diagnostic Imaging,,2018-09-10 21:27:18,24751329,2026-08-27,Quarterly,129459.0,19.1,1701.5,Available,2
+155,Infusion Pump,Drug Delivery,Operation Theatre,2018-10-26 18:51:19,31949,2026-04-23,Half-Yearly,77653.0,6.6,2051.4,Available,0
+156,Ultrasound Machine,Diagnostic Imaging,General Ward,2018-01-21 00:38:39,1117537,2026-08-17,Quarterly,76888.0,19.8,164.2,In Use,3
+157,Oxygen Concentrator,Respiratory Equipment,Emergency,2019-03-22 07:04:27,36941,2026-02-10,Yearly,32901.0,8.1,1931.3,Available,2
+158,CT Scanner,Diagnostic Imaging,ICU,2022-08-04 11:27:14,8550222,2026-02-28,Quarterly,121003.0,35.7,1207.2,In Use,2
+159,Patient Monitor,Monitoring,Pediatrics,2023-02-25 05:13:52,336434,2026-02-16,Yearly,129334.0,17.0,1428.3,In Use,0
+160,Ventilator,Critical Care,ICU,2020-03-30 03:26:47,705102,2026-01-24,Half-Yearly,35584.0,13.4,1453.4,Available,0
+161,Infusion Pump,Drug Delivery,Emergency,2019-11-02 13:50:54,100745,2026-02-16,Quarterly,112141.0,32.2,1821.6,Out of Service,0
+162,Infusion Pump,Drug Delivery,Emergency,2024-12-19 01:57:38,108251,,Quarterly,106611.0,15.2,800.2,In Use,2
+163,Pulse Oximeter,Monitoring,Pediatrics,2025-09-16 00:52:43,5344,,Yearly,139799.0,19.1,1639.4,In Use,1
+164,Oxygen Concentrator,Respiratory Equipment,Operation Theatre,2017-02-12 18:39:21,83413,2026-06-21,Yearly,37541.0,9.3,1210.0,In Use,2
+165,X-Ray Machine,Diagnostic Imaging,Emergency,2020-06-14 04:36:52,4571456,2026-02-17,Half-Yearly,90420.0,5.0,1766.1,Available,0
+166,ECG Machine,Diagnostic,Radiology,2025-01-28 11:49:45,167239,2026-08-13,Half-Yearly,67181.0,20.3,2180.1,Available,3
+167,CT Scanner,Diagnostic Imaging,General Ward,2024-04-04 06:38:54,12657693,2026-01-25,Yearly,83071.0,35.7,521.4,Available,1
+168,Oxygen Concentrator,Respiratory Equipment,General Ward,2025-08-23 14:19:55,82329,2026-02-11,Half-Yearly,129056.0,10.7,2188.8,Available,3
+169,Surgical Table,Surgical Equipment,Cardiology,2021-08-15 19:26:44,553490,2026-01-18,Monthly,27660.0,10.4,288.6,Out of Service,3
+170,Syringe Pump,Drug Delivery,Neurology,2024-12-02 19:39:44,63088,2026-05-12,Yearly,19133.0,6.7,104.9,In Use,1
+171,ECG Machine,Diagnostic,Emergency,2023-07-29 17:22:01,173196,2026-06-25,Quarterly,18514.0,12.7,192.7,In Use,4
+172,Ventilator,Critical Care,Emergency,2022-06-23 00:51:05,683027,2026-05-01,Half-Yearly,82032.0,22.2,817.7,In Use,2
+173,ECG Machine,Diagnostic,Radiology,2021-04-12 17:50:56,125479,2026-06-16,Quarterly,50604.0,22.4,1429.1,In Use,2
+174,X-Ray Machine,Diagnostic Imaging,ICU,2017-01-13 01:47:13,2765040,2026-08-12,Monthly,78731.0,5.8,245.0,In Use,2
+175,Electrosurgical Unit,Surgical Equipment,ICU,2023-09-14 01:42:21,992729,2026-05-05,Quarterly,69888.0,18.0,111.9,In Use,1
+176,Pulse Oximeter,Monitoring,General Ward,2024-11-16 12:49:28,3832,2026-06-08,Yearly,17514.0,34.8,2067.9,In Use,1
+177,ECG Machine,Diagnostic,General Ward,2021-10-16 16:05:59,89963,2026-07-23,Quarterly,94078.0,17.0,1826.0,Available,0
+178,Ventilator,Critical Care,Operation Theatre,2025-02-11 10:16:12,567267,2026-03-05,Quarterly,41890.0,10.7,1799.3,Available,2
+179,X-Ray Machine,Diagnostic Imaging,Pediatrics,2021-01-28 00:31:48,2150199,2026-04-14,Quarterly,25211.0,7.5,1957.3,Available,0
+180,Anesthesia Machine,Critical Care,Neurology,2018-10-22 16:25:36,723777,2026-04-30,Half-Yearly,93158.0,8.7,1570.1,Available,2
+181,Infusion Pump,Drug Delivery,Radiology,2019-04-10 23:24:44,98477,2026-07-12,Yearly,59493.0,28.4,319.2,Available,2
+182,Electrosurgical Unit,Surgical Equipment,Pediatrics,2021-05-16 06:18:39,255569,2026-08-24,Half-Yearly,8921.0,11.9,938.1,Available,1
+183,Pulse Oximeter,Monitoring,Pediatrics,2024-05-25 22:54:54,5300,2026-03-29,Half-Yearly,19227.0,6.3,1618.6,Out of Service,2
+184,Infusion Pump,Drug Delivery,Cardiology,2025-04-05 01:35:00,61586,,Yearly,113918.0,10.8,688.7,Available,2
+185,Syringe Pump,Drug Delivery,Pediatrics,2023-01-27 01:57:10,32015,2026-08-27,Half-Yearly,5858.0,7.3,1543.6,Available,2
+186,Ultrasound Machine,Diagnostic Imaging,Cardiology,2023-06-30 23:33:22,1461614,2026-01-15,Quarterly,66608.0,25.9,151.4,Available,3
+187,Electrosurgical Unit,Surgical Equipment,Pediatrics,2025-12-27 17:27:53,929574,2026-06-28,Quarterly,95518.0,3.8,742.9,Available,1
+188,Electrosurgical Unit,Surgical Equipment,Radiology,2021-07-31 13:46:26,748870,2026-02-03,Quarterly,125957.0,26.1,1253.2,In Use,3
+189,Anesthesia Machine,Critical Care,Cardiology,2018-01-26 00:46:28,1760367,2026-07-17,Quarterly,33410.0,3.1,1427.4,Available,2
+190,Anesthesia Machine,Critical Care,ICU,2018-12-17 12:06:16,702846,2026-08-12,Quarterly,128388.0,29.8,1311.8,Available,0
+191,CT Scanner,Diagnostic Imaging,Cardiology,2023-04-06 19:17:24,16001482,2026-01-07,Yearly,57254.0,55.6,1565.3,In Use,2
+192,Blood Pressure Monitor,Monitoring,Cardiology,2022-07-18 15:21:20,14637,,Quarterly,111347.0,14.9,112.8,Available,2
+193,ECG Machine,Diagnostic,Radiology,2025-05-11 20:55:57,223487,2026-03-20,Half-Yearly,39967.0,22.1,312.0,In Use,2
+194,Electrosurgical Unit,Surgical Equipment,Radiology,2023-11-07 22:20:52,274071,,Half-Yearly,35393.0,19.3,1924.8,Available,0
+195,Infusion Pump,Drug Delivery,Cardiology,2019-05-04 01:59:43,83243,2026-04-30,Quarterly,77829.0,16.6,1531.7,Available,0
+196,Ventilator,Critical Care,Neurology,2018-10-27 08:22:49,422312,2026-08-24,Yearly,32507.0,8.5,337.2,Out of Service,1
+197,Defibrillator,Emergency Equipment,Emergency,2024-09-30 03:49:40,377218,2026-02-14,Half-Yearly,55753.0,5.3,1868.4,Available,0
+198,Blood Pressure Monitor,Monitoring,Neurology,2023-07-25 03:04:00,4887,2026-05-05,Quarterly,13823.0,12.7,608.7,In Use,2
+199,Defibrillator,Emergency Equipment,Radiology,2025-01-04 12:45:17,483714,2026-01-23,Yearly,112835.0,6.4,1104.3,Available,4
+200,Pulse Oximeter,Monitoring,Neurology,2020-05-16 12:09:08,1666,2026-03-16,Half-Yearly,113856.0,16.9,404.9,In Use,3
+201,X-Ray Machine,Diagnostic Imaging,Neurology,2020-03-14 10:14:46,3929020,2026-07-07,Half-Yearly,112444.0,8.7,12000.0,Available,3
+202,Infusion Pump,Drug Delivery,Operation Theatre,2023-07-18 00:31:53,100697,2026-01-06,Half-Yearly,146782.0,4.4,1500.4,Under Maintenance,1
+203,Infusion Pump,Drug Delivery,Operation Theatre,2018-05-17 18:11:16,53732,2026-06-12,Half-Yearly,17956.0,18.3,543.3,Available,2
+204,Blood Pressure Monitor,Monitoring,ICU,2018-08-04 15:14:43,9777,2026-07-06,Yearly,32867.0,10.9,1913.1,In Use,3
+205,Electrosurgical Unit,Surgical Equipment,Pediatrics,2023-03-03 01:47:13,667170,2026-06-28,Quarterly,56124.0,4.0,942.7,Available,1
+206,Syringe Pump,Drug Delivery,Cardiology,2018-06-26 12:36:03,77108,2026-01-29,Quarterly,142678.0,26.4,714.3,Available,2
+207,Blood Pressure Monitor,Monitoring,Emergency,2019-01-31 19:01:29,8124,2026-05-21,Monthly,69508.0,13.7,419.9,Available,2
+208,Defibrillator,Emergency Equipment,ICU,2017-02-12 17:55:05,231195,2026-03-26,Yearly,127426.0,25.8,659.0,Available,3
+209,Blood Pressure Monitor,Monitoring,Cardiology,2024-12-14 21:13:54,7777,2026-07-25,Quarterly,116895.0,15.5,146.3,Available,1
+210,Infusion Pump,Drug Delivery,Neurology,2017-06-05 21:42:17,61668,2026-05-29,Yearly,117992.0,9.1,1324.8,In Use,1
+211,Syringe Pump,Drug Delivery,Radiology,2017-02-21 16:37:51,43061,2026-08-28,Half-Yearly,73740.0,6.9,1868.7,In Use,2
+212,ECG Machine,Diagnostic,Operation Theatre,2022-05-12 11:07:35,149252,2026-06-12,Yearly,65815.0,19.8,1252.9,In Use,1
+213,Surgical Table,Surgical Equipment,General Ward,2021-08-02 22:03:48,864037,2026-06-24,Yearly,12256.0,34.8,560.5,Available,4
+214,CT Scanner,Diagnostic Imaging,Emergency,2025-01-10 02:31:08,22810624,2026-04-01,Yearly,37878.0,18.6,170.7,Available,1
+215,Patient Monitor,Monitoring,Neurology,2022-03-01 17:31:47,227979,,Yearly,136827.0,8.9,550.7,In Use,3
+216,Anesthesia Machine,Critical Care,General Ward,2019-05-16 22:00:22,1698425,2026-06-08,Quarterly,147056.0,16.1,973.9,Available,2
+217,Blood Pressure Monitor,Monitoring,Operation Theatre,2020-08-10 21:13:20,14309,2026-02-18,Half-Yearly,127203.0,6.1,1695.2,Available,0
+218,Pulse Oximeter,Monitoring,Neurology,2018-07-21 21:01:19,3593,2026-01-09,Quarterly,58049.0,18.5,494.5,Available,1
+219,Ultrasound Machine,Diagnostic Imaging,Pediatrics,2025-11-17 14:42:34,2894157,2026-09-06,Quarterly,75294.0,23.2,1611.6,In Use,1
+220,X-Ray Machine,Diagnostic Imaging,Pediatrics,2023-12-08 16:52:35,1591865,2026-01-18,Half-Yearly,46613.0,9.8,1920.6,Out of Service,2
+221,Surgical Table,Surgical Equipment,General Ward,2024-02-07 07:15:23,1198860,2026-03-31,Half-Yearly,75569.0,32.6,1053.3,In Use,4
+222,CT Scanner,Diagnostic Imaging,Radiology,2018-10-17 16:20:01,13455770,2026-04-07,Quarterly,137821.0,8.7,1825.0,Available,2
+223,CT Scanner,Diagnostic Imaging,Neurology,2019-06-29 02:42:03,9072200,2026-02-26,Half-Yearly,127041.0,16.0,1264.8,In Use,1
+224,CT Scanner,Diagnostic Imaging,Cardiology,2017-06-24 00:04:48,18889464,2026-06-10,Yearly,11186.0,21.6,1437.9,In Use,1
+225,CT Scanner,Diagnostic Imaging,Neurology,2025-05-01 11:25:48,20457080,2026-01-09,Half-Yearly,54863.0,9.8,1205.2,Available,4
+226,Defibrillator,Emergency Equipment,Radiology,2023-03-18 14:56:50,294293,2026-05-25,Yearly,99043.0,4.9,1072.7,Available,2
+227,Pulse Oximeter,Monitoring,Neurology,2017-02-16 17:04:11,3286,2026-07-21,Yearly,133233.0,5.9,592.8,Available,5
+228,Pulse Oximeter,Monitoring,General Ward,2018-07-06 21:57:22,6175,2026-07-09,Yearly,97173.0,10.4,736.7,In Use,3
+229,Syringe Pump,Drug Delivery,Radiology,2020-08-09 13:33:27,75645,2026-04-27,Half-Yearly,44328.0,9.8,708.9,In Use,0
+230,Anesthesia Machine,Critical Care,Operation Theatre,2021-02-17 17:43:37,1528202,2026-06-27,Yearly,50104.0,12.9,1282.9,Available,5
+231,Infusion Pump,Drug Delivery,Emergency,2020-04-06 02:44:44,44262,2026-04-01,Yearly,12026.0,19.0,351.9,In Use,1
+232,CT Scanner,Diagnostic Imaging,Radiology,2017-04-23 07:11:41,17818159,2026-02-16,Yearly,70410.0,23.5,2025.3,Under Maintenance,0
+233,Ultrasound Machine,Diagnostic Imaging,Neurology,2019-06-25 19:29:05,3081020,2026-03-14,Quarterly,27092.0,25.2,1613.4,In Use,1
+234,Infusion Pump,Drug Delivery,Operation Theatre,2022-04-21 20:50:04,29432,2026-06-16,Quarterly,30482.0,44.3,943.0,In Use,2
+235,Pulse Oximeter,Monitoring,Emergency,2024-11-23 12:46:26,6145,2026-05-04,Quarterly,1707.0,7.0,433.1,In Use,1
+236,Ventilator,Critical Care,Pediatrics,2021-03-08 05:32:09,838579,2026-06-16,Monthly,90233.0,45.0,1952.2,In Use,2
+237,Ventilator,Critical Care,Cardiology,2018-06-01 19:39:08,460176,2026-04-27,Half-Yearly,126482.0,12.0,1829.9,In Use,1
+238,Ultrasound Machine,Diagnostic Imaging,General Ward,2024-09-15 06:44:25,3087623,2026-04-07,Yearly,,11.1,1615.6,Out of Service,0
+239,Syringe Pump,Drug Delivery,Neurology,2020-03-02 20:30:17,70428,2026-05-04,Yearly,47979.0,22.7,670.2,Available,1
+240,Pulse Oximeter,Monitoring,Neurology,2025-10-10 17:53:37,6811,2026-05-25,Quarterly,143326.0,8.5,945.1,Available,4
+241,Ultrasound Machine,Diagnostic Imaging,Pediatrics,2018-06-16 15:04:18,2367438,2026-02-10,Yearly,82937.0,20.4,315.8,Available,2
+242,Defibrillator,Emergency Equipment,Cardiology,2021-05-03 12:13:28,231317,2026-06-13,Half-Yearly,100040.0,33.8,497.0,In Use,1
+243,Blood Pressure Monitor,Monitoring,Pediatrics,2017-07-15 23:59:40,11717,2026-08-14,Yearly,74482.0,9.9,1744.3,In Use,1
+244,Ultrasound Machine,Diagnostic Imaging,ICU,2025-05-23 13:06:18,1189593,2026-05-09,Yearly,104247.0,22.2,1601.6,Available,3
+245,ECG Machine,Diagnostic,Pediatrics,2017-05-03 21:14:04,98699,2026-01-13,Half-Yearly,49731.0,19.2,1346.3,Available,1
+246,Infusion Pump,Drug Delivery,Operation Theatre,2022-05-02 23:06:31,98686,2026-04-25,Quarterly,30801.0,48.6,1981.0,In Use,2
+247,Surgical Table,Surgical Equipment,Emergency,2022-11-05 20:36:40,367661,2026-07-17,Yearly,20252.0,2.9,1324.9,In Use,3
+248,Oxygen Concentrator,Respiratory Equipment,Neurology,2024-04-12 13:13:56,74247,2026-07-19,Quarterly,99952.0,8.9,1080.6,Available,0
+249,Syringe Pump,Drug Delivery,Pediatrics,2021-05-12 10:44:08,36748,2026-02-22,Monthly,145967.0,4.5,814.8,In Use,0
+250,Ultrasound Machine,Diagnostic Imaging,Neurology,2023-07-13 16:41:07,3163917,2026-04-11,Yearly,122737.0,22.1,2074.9,In Use,0
+251,Pulse Oximeter,Monitoring,Radiology,2024-02-20 18:48:41,7842,2026-07-14,Quarterly,57773.0,14.9,273.7,Available,2
+252,X-Ray Machine,Diagnostic Imaging,Cardiology,2023-08-07 12:04:52,3578007,2026-04-30,Yearly,93378.0,37.2,2054.9,In Use,1
+253,Ventilator,Critical Care,Pediatrics,2017-01-31 13:25:28,508930,2026-01-08,Quarterly,6395.0,5.0,1836.1,In Use,2
+254,ECG Machine,Diagnostic,Emergency,2024-09-26 06:29:19,206198,2026-06-07,Yearly,121468.0,12.0,372.9,In Use,0
+255,Anesthesia Machine,Critical Care,Operation Theatre,2022-02-13 23:38:23,1160482,2026-02-13,Quarterly,117200.0,32.1,1286.5,Available,2
+256,CT Scanner,Diagnostic Imaging,ICU,2017-05-14 16:58:11,10966422,2026-06-24,Yearly,78059.0,10.6,1919.8,In Use,1
+257,Oxygen Concentrator,Respiratory Equipment,Neurology,2017-01-01 19:37:20,85658,2026-02-07,Yearly,12199.0,9.9,1300.8,Under Maintenance,0
+258,Electrosurgical Unit,Surgical Equipment,Cardiology,2020-08-05 23:53:10,812926,2026-03-03,Quarterly,11215.0,8.8,2005.1,In Use,1
+259,Syringe Pump,Drug Delivery,General Ward,2024-08-03 17:05:01,87067,2026-08-02,Half-Yearly,20669.0,6.2,2080.3,Available,3
+260,Surgical Table,Surgical Equipment,Emergency,2025-06-03 09:50:23,418033,2026-05-23,Yearly,119913.0,6.0,987.0,Under Maintenance,2
+261,Oxygen Concentrator,Respiratory Equipment,General Ward,2024-05-08 01:22:56,64674,2026-03-04,Half-Yearly,148735.0,8.0,892.4,Available,2
+262,Ultrasound Machine,Diagnostic Imaging,Emergency,2024-06-19 08:22:14,2015502,,Quarterly,120764.0,3.1,2066.3,In Use,0
+263,Defibrillator,Emergency Equipment,Emergency,2017-02-13 07:13:16,166271,2026-06-04,Half-Yearly,7282.0,14.1,1517.8,Available,5
+264,Ventilator,Critical Care,Operation Theatre,2017-08-14 19:51:52,681734,2026-01-01,Half-Yearly,125981.0,9.1,343.6,Available,1
+265,Pulse Oximeter,Monitoring,Operation Theatre,2017-05-16 15:41:17,5580,2026-01-23,Yearly,37085.0,0.8,188.8,In Use,1
+266,Ventilator,Critical Care,Operation Theatre,2020-10-01 15:53:52,471897,2026-03-30,Half-Yearly,32182.0,3.2,1285.7,In Use,3
+267,Anesthesia Machine,Critical Care,Pediatrics,2021-09-03 10:16:16,501062,2026-07-31,Quarterly,131492.0,0.8,2053.4,Under Maintenance,2
+268,Defibrillator,Emergency Equipment,Radiology,2017-09-19 02:19:41,367736,2026-05-16,Quarterly,85916.0,3.5,1872.9,In Use,2
+269,CT Scanner,Diagnostic Imaging,Emergency,2018-12-28 16:03:36,10192614,2026-05-06,Half-Yearly,129310.0,27.6,1519.3,Available,1
+270,Pulse Oximeter,Monitoring,Cardiology,2023-06-26 22:58:20,7229,2026-01-14,Quarterly,39567.0,14.3,392.1,In Use,1
+271,Infusion Pump,Drug Delivery,General Ward,2019-10-18 05:10:18,81793,2026-08-18,Quarterly,19573.0,9.0,633.9,In Use,5
+272,Patient Monitor,Monitoring,Operation Theatre,2018-12-07 23:16:00,325885,2026-06-01,Yearly,37535.0,22.0,1938.6,In Use,1
+273,ECG Machine,Diagnostic,Pediatrics,2024-04-12 18:26:43,117915,2026-05-31,Half-Yearly,91873.0,8.9,483.9,Available,0
+274,Ventilator,Critical Care,Operation Theatre,2018-06-23 17:48:59,516776,2026-06-13,Half-Yearly,84862.0,4.0,684.7,In Use,1
+275,X-Ray Machine,Diagnostic Imaging,General Ward,2021-02-19 07:06:16,2158956,2026-08-25,Yearly,92017.0,8.3,372.2,Out of Service,3
+276,Ventilator,Critical Care,General Ward,2024-01-18 11:54:06,621923,2026-05-12,Half-Yearly,66950.0,23.1,1519.8,Under Maintenance,3
+277,Oxygen Concentrator,Respiratory Equipment,Neurology,2017-12-06 21:06:54,36168,2026-03-26,Yearly,11882.0,15.0,2082.4,Available,2
+278,Ventilator,Critical Care,Emergency,2022-11-19 00:27:14,882387,2026-07-08,Half-Yearly,137009.0,25.0,664.8,Available,1
+279,Syringe Pump,Drug Delivery,Operation Theatre,2024-04-23 14:14:11,27561,2026-05-06,Monthly,63429.0,12.5,1098.4,In Use,8
+280,Ventilator,Critical Care,General Ward,2023-06-21 03:43:54,717010,2026-01-03,Quarterly,,8.2,1432.1,Under Maintenance,0
+281,Patient Monitor,Monitoring,Radiology,2017-04-29 00:54:59,162152,2026-06-16,Half-Yearly,144901.0,33.0,2198.9,In Use,2
+282,Patient Monitor,Monitoring,Radiology,2022-08-29 21:43:50,205036,2026-06-30,Yearly,26669.0,7.4,320.1,Under Maintenance,4
+283,CT Scanner,Diagnostic Imaging,Operation Theatre,2021-04-05 17:38:23,20969105,2026-06-11,Quarterly,88968.0,22.9,1147.0,Available,0
+284,Surgical Table,Surgical Equipment,Pediatrics,2022-05-24 10:17:28,326734,2026-07-04,Quarterly,36094.0,4.8,908.8,Available,0
+285,Infusion Pump,Drug Delivery,General Ward,2024-08-12 06:01:24,31371,2026-09-03,Quarterly,46533.0,22.5,1918.2,In Use,1
+286,X-Ray Machine,Diagnostic Imaging,Neurology,2024-11-01 06:16:06,3623221,2026-03-24,Quarterly,64633.0,18.9,1099.5,Available,0
+287,Ventilator,Critical Care,Emergency,2023-09-29 02:15:58,787198,2026-03-28,Yearly,75361.0,22.6,333.1,In Use,2
+288,Ventilator,Critical Care,,2024-08-09 08:53:13,585623,2026-07-23,Quarterly,33250.0,4.6,1432.3,Available,0
+289,ECG Machine,Diagnostic,Pediatrics,2018-09-24 12:40:54,151264,2026-08-29,Half-Yearly,41961.0,15.0,1718.6,Available,1
+290,Pulse Oximeter,Monitoring,Neurology,2023-04-02 11:39:08,7891,2026-08-25,Half-Yearly,79722.0,6.7,106.1,In Use,2
+291,Patient Monitor,Monitoring,Emergency,2019-06-14 08:54:35,152274,2026-06-07,Half-Yearly,113520.0,2.7,1903.8,Available,1
+292,X-Ray Machine,Diagnostic Imaging,Neurology,2025-07-31 05:43:36,3960072,2026-06-06,Yearly,25726.0,6.2,490.6,In Use,3
+293,CT Scanner,Diagnostic Imaging,ICU,2018-07-27 04:42:49,14482532,2026-04-28,Quarterly,8221.0,30.4,1259.3,In Use,3
+294,Anesthesia Machine,Critical Care,Operation Theatre,2023-12-15 18:30:05,1742629,2026-03-21,Yearly,22109.0,30.3,973.2,Under Maintenance,2
+295,Surgical Table,Surgical Equipment,Emergency,2019-12-13 07:21:44,1009913,2026-07-13,Quarterly,132013.0,4.9,1611.3,In Use,1
+296,Infusion Pump,Drug Delivery,Radiology,2019-04-20 22:47:54,73447,2026-02-08,Quarterly,105711.0,13.1,879.4,Available,2
+297,Defibrillator,Emergency Equipment,General Ward,2019-12-10 23:33:21,195703,2026-05-24,Yearly,138228.0,17.9,1926.5,Available,4
+298,Infusion Pump,Drug Delivery,Neurology,2018-10-25 10:44:44,101090,2026-01-22,Quarterly,126365.0,5.2,1634.0,Available,1
+299,Syringe Pump,Drug Delivery,Neurology,2017-09-24 10:41:25,37260,2026-07-21,Monthly,76020.0,19.2,1460.2,Available,2
+300,Oxygen Concentrator,Respiratory Equipment,Cardiology,2025-07-19 18:48:19,33812,2026-07-26,Yearly,65809.0,24.0,1772.1,Available,2
+21,Surgical Table,Surgical Equipment,General Ward,2019-06-02 10:10:46,456542,2026-08-20,Yearly,121530.0,8.2,307.6,Available,2
+76,CT Scanner,Diagnostic Imaging,Emergency,2017-11-02 03:40:10,12578238,2026-06-27,Half-Yearly,5212.0,18.6,2158.2,Available,3
+151,Infusion Pump,Drug Delivery,Neurology,2021-04-08 15:32:03,102709,2026-02-24,Yearly,142007.0,5.3,2140.2,In Use,2
